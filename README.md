@@ -19,5 +19,5 @@ Known Bugs:
 - If you kill an enemy with Haggar's Suplex or Pile Driver and an Andore stomp you at the correct time, the enemy might become invincible, [check](https://www.youtube.com/watch?v=y1_6129sQOU) (bug present in the original game).
 - It is possible to kill the last boss (Belger) before he goes to the corner, which leads to a bugged animation of him falling through the window (bug present in the original game).
 - Enemies sometimes spawn with weird palletes (3rd and 4th stage).
-- Bugged sprite layers (3rd, 5th and 6th stage?).
+- Bugged sprite layers (3rd, 5th and 6th stage?)..
 <br/><br/>
